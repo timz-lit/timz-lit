@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timz-lit 
+- 👋 Hi, I’m Timz 
 - 👀 I’m interested in flutterflow
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project
