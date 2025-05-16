@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutterflow
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me on every social media
+- 📫 How to reach me on every social media @ox_timz
 - 😄 Pronouns: he
 - ⚡ Fun fact: leave past, live present
 
